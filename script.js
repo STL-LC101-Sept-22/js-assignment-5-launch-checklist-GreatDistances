@@ -1,5 +1,7 @@
 // Write your JavaScript code here!
 
+// TEST FOR INITIAL COMMIT
+
 window.addEventListener("load", function() {
 
    let listedPlanets;
